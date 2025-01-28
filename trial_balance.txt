@@ -1,0 +1,4 @@
+Inventory | 0.00 | 0.00
+Accounts Payable | 0.00 | 0.00
+Office Supplies | 100.00 | 0.00
+Cash | 0.00 | 100.00

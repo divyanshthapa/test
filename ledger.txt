@@ -1,0 +1,18 @@
+2025-01-27 | Purchased fixed assets with cash. | Inventory | Dr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Inventory | Dr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Inventory | Dr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Inventory | Dr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Inventory | Dr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Accounts Payable | Cr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Accounts Payable | Cr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Accounts Payable | Cr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Accounts Payable | Cr | 0.00
+2025-01-27 | Purchased fixed assets with cash. | Accounts Payable | Cr | 0.00
+2025-01-27 | Purchased office supplies with cash 100 | Office Supplies | Dr | 100.00
+2025-01-27 | Purchased office supplies with cash | Office Supplies | Dr | 0.00
+2025-01-27 | Purchased office supplies with cash | Office Supplies | Dr | 0.00
+2025-01-27 | Purchased office supplies with cash | Office Supplies | Dr | 0.00
+2025-01-27 | Purchased office supplies with cash 100 | Cash | Cr | 100.00
+2025-01-27 | Purchased office supplies with cash | Cash | Cr | 0.00
+2025-01-27 | Purchased office supplies with cash | Cash | Cr | 0.00
+2025-01-27 | Purchased office supplies with cash | Cash | Cr | 0.00
